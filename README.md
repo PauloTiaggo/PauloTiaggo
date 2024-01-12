@@ -17,7 +17,7 @@
   - Seaborn
   - Numpy
   
-🔧 Utilizo essas bibliotecas para manipulação, análise exploratória e implementação de algoritmos de **Machine Learning**.
+🔧 Utilizo as bibliotecas para manipulação, análise exploratória e implementação de algoritmos de **Machine Learning**.
 
 ## Projetos Destacados
 
