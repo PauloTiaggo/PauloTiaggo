@@ -10,6 +10,7 @@
 
 - 💻 Linguagens: Python e SQL.
 - 📊 Ferramentas: Power BI e Excel básico.
+- 📈 Boa noção de Machine Learning e Estatística.
 - 📚 Bibliotecas: 
   - Pandas
   - Scikit-Learn
