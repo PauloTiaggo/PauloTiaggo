@@ -8,17 +8,18 @@
 
 ## Habilidades Técnicas
 
-- 💻 Linguagens: Python e SQL.
-- 📊 Ferramentas: Power BI e Excel básico.
-- 📈 Boa noção de Machine Learning e Estatística.
+- 💻 Linguagens: domínio em Python e SQL.
+- 📊 Ferramentas: Power BI e Excel.
+- 📈 Sólido conhecimento em Machine Learning e Estatística.
 - 📚 Bibliotecas: 
   - Pandas
   - Scikit-Learn
   - Matplotlib
   - Seaborn
   - Numpy
+  - Keras
   
-🔧 Utilizo essas bibliotecas para manipulação de dados, análise exploratória e implementação de algoritmos de **Machine Learning**.
+🔧 Proficiente no processo de ETL, limpeza e processamento dos dados.
 
 ## Projetos Destacados
 
